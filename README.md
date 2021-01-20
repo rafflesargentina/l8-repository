@@ -1,4 +1,4 @@
-# This package has been abandoned and is no longer maintained.
+# Clone of...
 
 # Caffeinated Repository
 [![Source](http://img.shields.io/badge/source-caffeinated/repository-blue.svg?style=flat-square)](https://github.com/caffeinated/repository)
