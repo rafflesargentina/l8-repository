@@ -1,0 +1,22 @@
+{
+    "name": "rafflesargentina/l8-repository",
+    "description": "Reusable Laravel repository interface.",
+    "keywords": ["laravel", "caffeinated", "eloquent", "repository"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shea Lewis",
+            "email": "shea.lewis89@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "illuminate/support": "8.*",
+        "illuminate/config": "8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "RafflesArgentina\\Repository\\": "src/"
+        }
+    }
+}
